@@ -1,0 +1,11 @@
+{
+    "name": "ApoFix",
+    "version_number": "1.0.0",
+    "website_url": "https://youtu.be/HIcSWuKMwOw",
+    "description": "Little more rebalance",
+    "dependencies": [
+        "Pykess-ModdingUtils-0.4.8",
+		"willis81808-UnboundLib-3.2.14",
+		"Pykess-CardChoiceSpawnUniqueCardPatch-0.1.10"
+    ]
+}
